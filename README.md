@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @scribbler2
-- 👀 I’m interested in learning code
-- 🌱 I’m currently learning JavaScript 
-- 💞️ I’m looking to collaborate on Apps
+- 🌱 I’m currently learning Python 
+- 
 - 📫 draganmirilo86@gmail.com
 
 <!---
